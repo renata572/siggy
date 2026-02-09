@@ -3,3 +3,4 @@ build/
 *.pyc
 .env
 __pycache__/
+*.tmp
